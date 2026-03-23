@@ -45,10 +45,10 @@ print(inverted)
 # Oczekiwany wynik:
 #     Dwa słowniki wypisane
 
-# 1️⃣ Słownik: liczby 1–20 i ich kwadraty
+# Słownik: liczby 1–20 i ich kwadraty
 squares = {x: x**2 for x in range(1, 21)}
 
-# 2️⃣ Filtrowanie: tylko liczby parzyste
+# tylko liczby parzyste
 even_squares = {k: v for k, v in squares.items() if k % 2 == 0}
 
 # Wynik
