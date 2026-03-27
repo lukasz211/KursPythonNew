@@ -96,3 +96,6 @@ for date, category, amount in transactions:
 
 # Wynik
 print(summary)
+
+
+#ew[lpfl]

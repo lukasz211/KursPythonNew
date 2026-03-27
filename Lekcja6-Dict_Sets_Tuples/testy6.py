@@ -72,3 +72,6 @@ print(parzyste_kwadraty) # {2: 4, 4: 16}
 #Czyszczenie słownika
 kwadraty.clear()
 print(kwadraty) # {}
+
+
+#---------------------------------------------
